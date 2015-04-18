@@ -1,0 +1,9 @@
+Photo Frame 1.0 showcases images in new style using jQuery. The main intention is to have a set of rotated thumbnails that,
+
+Once clicked, animate to form the selected image. You can navigate through the images with previous and next buttons and
+
+When the big image gets clicked it will scatter across the screen to form a Grid layout of images. Basically here the images are shown from Users Facebook profile via Albums.
+
+Technologies: PHP 5.4.3, html 5.
+
+Plugins: jQuery 1.8.2, jQuery UI 1.9.2,Facebook-PHP-SDK v3.2.3, Twitter-bootstrap v2.3.2,NailThumb v1.1.
